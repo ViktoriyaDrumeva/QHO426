@@ -1,0 +1,20 @@
+{
+  "files": {
+    ".gitignore": [
+      {
+        "id": "8d36ceb9-1ecd-4490-bb52-9db3e7e88ca3",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "8248e1c8-e299-44d3-b495-0c9a736c0a0c",
+        "line": 9,
+        "version": 1,
+        "index": 220
+      }
+    ]
+  }
+}
